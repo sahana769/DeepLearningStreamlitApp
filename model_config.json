@@ -1,0 +1,5 @@
+{
+    "model_name": "model",
+    "version": "1.0",
+    "framework": "tensorflow / keras"
+}
